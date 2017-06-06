@@ -1,6 +1,6 @@
 {
   "name": "penrosejs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "For generating vertices of penrose tiles",
   "main": "dist/index.js",
   "scripts": {
