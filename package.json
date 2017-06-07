@@ -1,8 +1,8 @@
 {
   "name": "penrosejs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "For generating vertices of penrose tiles",
-  "main": "index.js",
+  "main": "dist/bundle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "./node_modules/.bin/eslint model/*.js example/*.js",
