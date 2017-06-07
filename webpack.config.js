@@ -15,7 +15,7 @@ const penroseBuild = {
       }
     ]
   },
-  entry: './index.js',
+  entry: './model/penrose.js',
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist/'),
