@@ -1,2 +1,2 @@
-penrose = require('./dist/bundle.js');
-module.exports(penrose);
+var penrose = require('./dist/bundle.js');
+module.exports = penrose;
